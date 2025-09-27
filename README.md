@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/Arhum19/image1.jpg" alt="Arhum Bin Abid Profile" width="200" style="border-radius:50%;" />
+  <img src="pfp.jpg" alt="Arhum Bin Abid Profile" width="200" style="border-radius:50%;" />
 </p>
 
 # Hi, I'm Arhum Bin Abid 👋
