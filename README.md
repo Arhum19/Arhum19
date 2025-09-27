@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="cropped_circle_image.png" alt="Arhum Bin Abid Profile" width="200" style="border-radius:50%;" />
-</p>
+
 
 # Hi, I'm Arhum Bin Abid 👋
 
